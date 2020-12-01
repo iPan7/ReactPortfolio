@@ -32,6 +32,7 @@ export class AboutMe extends React.Component {
               <img
                 className="img-responsive"
                 src="https://imgur.com/Ycm4C0l.jpg"
+                alt=""
               />
             </div>
           </div>

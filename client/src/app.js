@@ -1,6 +1,6 @@
 import React from "react";
-import { HashRouter as Router, Route, Redirect } from "react-router-dom";
-import { Navbar, githubProjects } from "./components";
+import { HashRouter as Router, Route} from "react-router-dom";
+import { Navbar} from "./components";
 import {
   AboutMe,
   Contact,
