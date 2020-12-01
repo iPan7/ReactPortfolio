@@ -13,6 +13,7 @@ function App() {
       <Route path="/AboutMe" component={AboutMe} />
       <Route path="/Contact" component={Contact} />
       <Route path="/Portfolio" component={Portfolio} />
+      <Route path="/" exact/>
     </Router>
   );
 }
